@@ -57,9 +57,7 @@
 
 ### ESP32-CAM 服务端
 
-本客户端需要配合 ESP32-CAM 硬件使用，请参考 Arduino 项目：
-`/home/neodev/Projects/arduinoProjects/esp-cam-server-video/CameraWebServer/`
-
+本客户端需要配合 ESP32-CAM 硬件使用，请参考 Arduino 示例项目
 ESP32-CAM 需要：
 1. 烧录 CameraWebServer 示例代码
 2. 配置 WiFi 热点或连接到同一网络
