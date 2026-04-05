@@ -289,8 +289,7 @@ lib/
 
 ## 参考项目
 
-Arduino ESP32-CAM 服务器代码：
-`/home/neodev/Projects/arduinoProjects/esp-cam-server-video/CameraWebServer/`
+Arduino ESP32-CAM 示例服务器代码
 
 ## 许可证
 
